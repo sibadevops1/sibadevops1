@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siba Prasad
 - 👀 I’m interested to how GitHub with DevOps
-- 🌱 I’m currently learning mazon AWS, with DevOps
+- 🌱 I’m currently learning amazon AWS, with DevOps
 - 💞️ I’m looking to collaborate on how to integarte IBM InfroSphere componnet, Tibco Spotfire, Tibco JasperSoft in DevOps
 - 📫 Reach me out at sibadevops1@gmail.com
 
